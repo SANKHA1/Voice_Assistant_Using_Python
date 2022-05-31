@@ -1,0 +1,11 @@
+pyjokes
+wikipedia
+datetime
+pywhatkit
+pyttsx3
+SpeechRecognition
+flask
+absl-py
+appdirs
+numba
+numpy
